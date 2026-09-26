@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales SQL Analysis
 
-A SQL-based business analytics project built using the **Sample Superstore** retail dataset. The project analyzes nearly **10,000 customer transactions** to generate business insights related to sales, profit, customers, products, regions, and discounts using MySQL.
+A SQL-based business analytics project built using the **Superstore_Dataset** retail dataset. The project analyzes nearly **10,000 customer transactions** to generate business insights related to sales, profit, customers, products, regions, and discounts using MySQL.
 
 ---
 
@@ -47,11 +47,9 @@ E-Commerce-Sales-SQL-Analysis/
 
 ├── Dataset/
 
-├── SQL/
-
 ├── Screenshots/
 
-├── Documentation/
+├── SQL/
 
 └── README.md
 
@@ -93,11 +91,3 @@ The `Screenshots` folder contains screenshots of important SQL query outputs inc
 * Top Products
 
 ---
-
-## Author
-
-**Vignesh Shrinivas Gundari**
-
-Computer Science Engineering (AI & ML)
-
-A. P. Shah Institute of Technology
